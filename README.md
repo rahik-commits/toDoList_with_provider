@@ -1,19 +1,35 @@
 # ToDo List with Provider
 
-A simple ToDo List application built with Flutter using the Provider state management solution. This app allows users to add, update, and delete tasks effortlessly.
+A Flutter-based ToDo List application that utilizes the Provider package for state management. This app allows users to add, delete, and update tasks seamlessly.
+
+## Screenshots
+
+### Task List View
+![Task List Screenshot](https://raw.githubusercontent.com/rahik-commits/toDoList_with_provider/main/Screenshot_1730712581.png)
+
+### Add Task View
+![Add Task Screenshot](https://raw.githubusercontent.com/rahik-commits/toDoList_with_provider/main/Screenshot_1730712593.png)
+
+### Task Update Functionality
+![Task Update Screenshot](https://raw.githubusercontent.com/rahik-commits/toDoList_with_provider/main/Screenshot_1730713261.png)
 
 ## Features
+- **Add Tasks**: Users can add new tasks with titles and subtitles.
+- **Delete Tasks**: Users can remove tasks they no longer need.
+- **State Management**: The app uses Provider for efficient state management.
 
-- Add new tasks with a title and subtitle
-- Mark tasks as completed with a checkbox
-- Delete tasks from the list
+## Getting Started
+Follow these instructions to set up the project locally.
 
+### Prerequisites
+- Flutter SDK
+- Dart SDK
 
-## Installation
-
+### Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/rahik-commits/toDoList_with_provider.git
+
 
 
 A few resources to get you started if this is your first Flutter project:
