@@ -1,11 +1,20 @@
-<<<<<<< HEAD
-# todo_provider
+# ToDo List with Provider
 
-A new Flutter project.
+A simple ToDo List application built with Flutter using the Provider state management solution. This app allows users to add, update, and delete tasks effortlessly.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add new tasks with a title and subtitle
+- Mark tasks as completed with a checkbox
+- Delete tasks from the list
+
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rahik-commits/toDoList_with_provider.git
+
 
 A few resources to get you started if this is your first Flutter project:
 
